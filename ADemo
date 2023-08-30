@@ -1,0 +1,7 @@
+public class ADemo
+{
+   public stack void main (String []args)
+   {  
+        system.out.print("vk18")
+   }
+}  
